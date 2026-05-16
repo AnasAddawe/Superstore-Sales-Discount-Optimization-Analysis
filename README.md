@@ -16,6 +16,8 @@ This analysis focuses on identifying discount leakage, unprofitable products, cu
 ## Key Finding
 
 > \*\*885 orders were placed with discounts above 40%. Together they erased $98,327 in profit and gave away $232,980 in revenue through discounting alone — with zero net return.\*\*
+> <img width="904" height="366" alt="Näyttökuva 2026-05-16 145945" src="https://github.com/user-attachments/assets/400b7e30-b1cf-4d4c-9aab-d280b47c8616" />
+
 
 This single finding anchors the entire analysis: aggressive discounting is not driving loyalty or volume gains that offset the margin loss. It is simply destroying profit.
 
@@ -44,6 +46,7 @@ This single finding anchors the entire analysis: aggressive discounting is not d
 * Orders discounted above 40% generated a collective loss of $98,327 across 885 transactions
 * $232,980 in potential revenue was surrendered through discounting with no profitable return
 * The "Discount Trap" analysis revealed multiple products exceeding $5,000 in revenue that still produced negative net profit — driven by average discount rates well above 20%
+<img width="734" height="336" alt="Näyttökuva 2026-05-16 150933" src="https://github.com/user-attachments/assets/7812da4b-978b-4483-8c1d-c6f8576372ea" />
 
 **By Sub-Category**
 
