@@ -16,7 +16,7 @@ This analysis focuses on identifying discount leakage, unprofitable products, cu
 ## Key Finding
 
 > \*\*885 orders were placed with discounts above 40%. Together they erased $98,327 in profit and gave away $232,980 in revenue through discounting alone — with zero net return.\*\*
-> <img width="904" height="366" alt="Näyttökuva 2026-05-16 145945" src="https://github.com/user-attachments/assets/400b7e30-b1cf-4d4c-9aab-d280b47c8616" />
+><img width="822" height="256" alt="image" src="https://github.com/user-attachments/assets/c93b2d30-b9cb-42b0-a3af-86fac2afac7d" />
 
 
 This single finding anchors the entire analysis: aggressive discounting is not driving loyalty or volume gains that offset the margin loss. It is simply destroying profit.
